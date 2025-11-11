@@ -1,6 +1,5 @@
-﻿1.Общее положение.
+1.Общее положение.
 Данное Пользовательское соглашение первоначально составлено на Русском языке. Англоязычная версия предоставлена исключительно для удобства Пользователей. В случае возникновения любых противоречий или расхождений между версиями, исключительную юридическую силу имеет оригинальная русская версия.
-
 
 Имя проекта: Luna 
 Суть проекта: Публичный discord бот
@@ -10,62 +9,54 @@ Github:https://github.com/YunoSL,
 Email:help.lunabot@gmail.com,
 Discord:yuno_sl
 
-
 Используя Luna вы соглашаетесь с настоящими Условиями использования. Если вы не согласны - не используйте сервис
-
 
 2.Определения:
 
+2.1 Luna - это программный продукт (бот) для платформы Discord, предоставляющий пользователям функционал. Полный перечень функций доступен по команде /help в интерфейсе Discord. Далее Luna
 
-Luna - это программный продукт (бот) для платформы Discord, предоставляющий пользователям функционал. Полный перечень функций доступен по команде /help в интерфейсе Discord. Далее Luna
-Пользователь - Конечный пользователь discord использующий сервис.
-Запрещённый контент - Запрещается размещение, распространение или предоставление доступа к Контенту, который является незаконным, вредоносным, угрожающим, клеветническим, нарушающим частную жизнь, или который мы, по нашему собственному усмотрению, считаем неприемлемым. К такому Запрещенному контенту, в частности, относится:Контент сексуального характера: Порнография, материалы откровенно сексуального характера, контент, связанный с сексуальной эксплуатацией, а также любые материалы, изображающие несовершеннолетних в сексуализированном контексте.Экстремально насильственный и шокирующий контент: Реалистичные изображения или описания насилия, жестокости, пыток, убийств, телесных повреждений, а также изображения трупов, расчлененных тел или иных последствий насильственных действий в шокирующих деталях.Жестокое обращение с людьми и животными: Материалы, изображающие или пропагандирующие физическое или психологическое издевательство, унижение, пытки, причинение страданий людям или животным.Контент, разжигающий ненависть: Материалы, которые пропагандируют насилие или дискриминацию в отношении лиц или групп на основе расы, этнического происхождения, религии, инвалидности, пола, возраста, сексуальной ориентации или иных характеристик.Контент, нарушающий права человека: Угрозы расправы, кибербуллинг, преследование, вторжение в частную жизнь и распространение личной информации без согласия (доксинг).Мы оставляем за собой право по своему усмотрению удалять любой Контент, который нарушает настоящие Условия, и принимать меры в отношении учетных записей, размещающих такой Контент, вплоть до обращения в discord для их блокировки. Любой контент, который нарушает Условия использования Discord или Руководство сообщества Discord, также считается Запрещенным контентом для целей настоящего Соглашения.
+2.2 Пользователь - Конечный пользователь discord использующий сервис.
 
+2.3 Запрещённый контент - Запрещается размещение, распространение или предоставление доступа к Контенту, который является незаконным, вредоносным, угрожающим, клеветническим, нарушающим частную жизнь, или который мы, по нашему собственному усмотрению, считаем неприемлемым. К такому Запрещенному контенту, в частности, относится:Контент сексуального характера: Порнография, материалы откровенно сексуального характера, контент, связанный с сексуальной эксплуатацией, а также любые материалы, изображающие несовершеннолетних в сексуализированном контексте.Экстремально насильственный и шокирующий контент: Реалистичные изображения или описания насилия, жестокости, пыток, убийств, телесных повреждений, а также изображения трупов, расчлененных тел или иных последствий насильственных действий в шокирующих деталях.Жестокое обращение с людьми и животными: Материалы, изображающие или пропагандирующие физическое или психологическое издевательство, унижение, пытки, причинение страданий людям или животным.Контент, разжигающий ненависть: Материалы, которые пропагандируют насилие или дискриминацию в отношении лиц или групп на основе расы, этнического происхождения, религии, инвалидности, пола, возраста, сексуальной ориентации или иных характеристик.Контент, нарушающий права человека: Угрозы расправы, кибербуллинг, преследование, вторжение в частную жизнь и распространение личной информации без согласия (доксинг).Мы оставляем за собой право по своему усмотрению удалять любой Контент, который нарушает настоящие Условия, и принимать меры в отношении учетных записей, размещающих такой Контент, вплоть до обращения в discord для их блокировки. Любой контент, который нарушает Условия использования Discord или Руководство сообщества Discord, также считается Запрещенным контентом для целей настоящего Соглашения.
 
 3.Правила использования:
-Используя Luna Пользователю запрещено совершать следующие пункты:
+3.1 Используя Luna Пользователю запрещено совершать следующие пункты:
 1-Использование функционала бота для противоправных-Незаконных действий, 2-Использование бота для спама-Фишинга и так далее, Нарушение Условий использования 3-Discord (https://discord.com/terms),
 4-Использование бота для Распространения запрещенного контента,
 5-Любые действия направленные на нарушение работы бота: DDos Атаки, использование Уязвимостей и прочее.
 
+3.2 При нарушении правил использования Владелец вправе приостановить или полностью прекратить предоставление доступа к Сервису для конкретного Пользователя или целого сервера (гильдии) по своему усмотрению, без обязательного предварительного уведомления.
 
-При нарушении правил использования Владелец вправе приостановить или полностью прекратить предоставление доступа к Сервису для конкретного Пользователя или целого сервера (гильдии) по своему усмотрению, без обязательного предварительного уведомления.
-
-
-Услугами сервиса могут пользоваться лишь пользователи достигшие возраста соответствующему минимальным возрастом для использования площадки Discord
-
+3.3 Услугами сервиса могут пользоваться лишь пользователи достигшие возраста соответствующему минимальным возрастом для использования площадки Discord
 
 4.Услуги сервиса:
-Сервис предоставляется “как есть”, без гарантий. Разработчик не несёт ответственности за прямые или косвенные убытки такие как: потери данных внутри бота (Данные в базах данных и прочее), Прекращение работы бота, потеря статистики,  Или же за убытки в результате действий пользователя или третьих лиц. Разработчик также не гарантирует бесперебойную работу сервиса и-или оправдание ожиданий. 
 
+4.1 Сервис предоставляется “как есть”, без гарантий. Разработчик не несёт ответственности за прямые или косвенные убытки такие как: потери данных внутри бота (Данные в базах данных и прочее), Прекращение работы бота, потеря статистики,  Или же за убытки в результате действий пользователя или третьих лиц. 
+
+4.2Разработчик также не гарантирует бесперебойную работу сервиса и-или оправдание ожиданий. 
 
 5.Сбор и использование данных:
-Luna Имеет права собирать данные о пользователях для предоставления функционала, такие как: Id пользователей, Серверов, сообщений. Аватары пользователей или серверов. Никнеймы пользователей а также иные данные, необходимые для функционирования конкретных команд и возможностей бота. Подробнее в Политике конфиденциальности (https://docs.google.com/document/d/1tsoodfPLsBFTJe3UPCD88R-5NAhu0h8iLhOH_aubkHY/edit?usp=sharing),
 
+5.1Luna Имеет права собирать данные о пользователях для предоставления функционала, такие как: Id пользователей, Серверов, сообщений. Аватары пользователей или серверов. Никнеймы пользователей а также иные данные, необходимые для функционирования конкретных команд и возможностей бота. Подробнее в Официальной Политике конфиденциальности: 
+Googledocs:(https://docs.google.com/document/d/1tsoodfPLsBFTJe3UPCD88R-5NAhu0h8iLhOH_aubkHY/edit?usp=sharing),Github:(https://github.com/YunoSL/Luna-terms./blob/main/TermsofUse) 
 
 6.Условия изменений Условий пользования (ToU): 
-Владелец проекта оставляет за собой право изменять условия без уведомления пользователя. Обновленная версия вступает в силу с момента публикации. Дальнейшее использование бота после вступления изменений в силу означает согласие с ними.  
 
-
+6.1 Владелец проекта оставляет за собой право изменять условия без уведомления пользователя. Обновленная версия вступает в силу с момента публикации. Дальнейшее использование бота после вступления изменений в силу означает согласие с ними.  
 
 
 7.Права на Luna
-Все права на исходный код принадлежат владельцу. Пользователь получает ограниченную лицензию на использование сервиса.
-Некоторые графические элементы могут быть получены из общедоступных источников и используются в соответствии с принципом добросовестного использования. В случае возникновения претензий со стороны правообладателей просьба связаться по контактам, указанным в разделе 1.
 
-
-
-
+7.1 Все права на исходный код принадлежат владельцу. Пользователь получает ограниченную лицензию на использование сервиса.
+7.2 Некоторые графические элементы могут быть получены из общедоступных источников и используются в соответствии с принципом добросовестного использования. В случае возникновения претензий со стороны правообладателей просьба связаться по контактам, указанным в разделе 1.
 
 
 
 
 ……………………………………………………………………………………………………………
 
-
 1. General Provisions.
 This User Agreement was originally drafted in Russian. The English version is provided solely for the convenience of Users. In case of any contradictions or discrepancies between the versions, the original Russian version shall prevail and be the only version with legal force.
-
 
 Project Name: Luna
 Project Essence: Public discord bot
@@ -75,43 +66,44 @@ Github:https://github.com/YunoSL,
 Email:help.lunabot@gmail.com,
 Discord:yuno_sl
 
-
 By using Luna you agree to these Terms of Use. If you do not agree - do not use the service
-
 
 2.Definitions:
 
+2.1 Luna is a software product (bot) for the Discord platform, providing functionality to users. The full list of functions is available via the /help command in the Discord interface. Hereinafter referred to as Luna
 
-Luna is a software product (bot) for the Discord platform, providing functionality to users. The full list of functions is available via the /help command in the Discord interface. Hereinafter referred to as Luna
-User - The end user of discord using the service.
-Prohibited Content - You are prohibited from posting, distributing, or providing access to Content that is illegal, harmful, threatening, defamatory, invasive of privacy, or that we, in our sole discretion, deem unacceptable. Such Prohibited Content includes, but is not limited to:Sexual Content: Pornography, explicit sexual material, content related to sexual exploitation, and any material depicting minors in a sexualized context.Extremely Violent and Shocking Content: Realistic depictions or descriptions of violence, cruelty, torture, murder, bodily harm, as well as depictions of corpses, dismembered bodies, or other consequences of violent acts in shocking detail.Abuse of People and Animals: Material depicting or promoting physical or psychological bullying, humiliation, torture, infliction of suffering on people or animals.Hate Speech: Materials that promote violence or discrimination against individuals or groups based on race, ethnic origin, religion, disability, gender, age, sexual orientation, or other characteristics.Content Violating Human Rights: Threats of violence, cyberbullying, harassment, invasion of privacy, and dissemination of personal information without consent (doxing).We reserve the right, at our sole discretion, to remove any Content that violates these Terms, and take action against accounts posting such Content, up to and including reporting to Discord for their blocking. Any content that violates Discord's Terms of Service or Discord Community Guidelines is also considered Prohibited Content for the purposes of this Agreement.
+2.2 User - The end user of discord using the service.
 
+2.3 Prohibited Content - You are prohibited from posting, distributing, or providing access to Content that is illegal, harmful, threatening, defamatory, invasive of privacy, or that we, in our sole discretion, deem unacceptable. Such Prohibited Content includes, but is not limited to:Sexual Content: Pornography, explicit sexual material, content related to sexual exploitation, and any material depicting minors in a sexualized context.Extremely Violent and Shocking Content: Realistic depictions or descriptions of violence, cruelty, torture, murder, bodily harm, as well as depictions of corpses, dismembered bodies, or other consequences of violent acts in shocking detail.Abuse of People and Animals: Material depicting or promoting physical or psychological bullying, humiliation, torture, infliction of suffering on people or animals.Hate Speech: Materials that promote violence or discrimination against individuals or groups based on race, ethnic origin, religion, disability, gender, age, sexual orientation, or other characteristics.Content Violating Human Rights: Threats of violence, cyberbullying, harassment, invasion of privacy, and dissemination of personal information without consent (doxing).We reserve the right, at our sole discretion, to remove any Content that violates these Terms, and take action against accounts posting such Content, up to and including reporting to Discord for their blocking. Any content that violates Discord's Terms of Service or Discord Community Guidelines is also considered Prohibited Content for the purposes of this Agreement.
 
 3.Rules of Use:
-When using Luna, the User is prohibited from performing the following actions:
+
+3.1 When using Luna, the User is prohibited from performing the following actions:
 1- Using the bot's functionality for illegal/Unlawful actions, 2- Using the bot for spam/phishing, etc., Violation of Discord's Terms of Service 3- (https://discord.com/terms),
 4- Using the bot to Distribute prohibited content,
 5- Any actions aimed at disrupting the bot's operation: DDoS Attacks, exploitation of Vulnerabilities, and other similar actions.
 
+3.2 In case of violation of the rules of use, the Owner has the right to suspend or completely terminate access to the Service for a specific User or an entire server (guild) at its sole discretion, without mandatory prior notice.
 
-In case of violation of the rules of use, the Owner has the right to suspend or completely terminate access to the Service for a specific User or an entire server (guild) at its sole discretion, without mandatory prior notice.
-
-
-The services of the service may only be used by users who have reached the age corresponding to the minimum age for using the Discord platform.
-
+3.3 The services of the service may only be used by users who have reached the age corresponding to the minimum age for using the Discord platform.
 
 4.Service Services:
-The service is provided "as is", without warranties. The Developer is not responsible for direct or indirect losses such as: loss of data within the bot (Data in databases, etc.), Cessation of the bot's operation, loss of statistics, Or for losses resulting from the actions of the user or third parties. The Developer also does not guarantee uninterrupted operation of the service and/or that it will meet expectations.
 
+4.1The service is provided "as is", without warranties. The Developer is not responsible for direct or indirect losses such as: loss of data within the bot (Data in databases, etc.), Cessation of the bot's operation, loss of statistics, Or for losses resulting from the actions of the user or third parties.
+
+4.2The Developer also does not guarantee uninterrupted operation of the service and/or that it will meet expectations.
 
 5.Data Collection and Use:
-Luna has the right to collect user data to provide functionality, such as: User IDs, Server IDs, message IDs. User or server avatars. User nicknames as well as other data necessary for the functioning of specific commands and features of the bot. For more details, see the Privacy Policy
 
+5.1 Luna has the right to collect user data to provide functionality, such as: User IDs, Server IDs, message IDs. User or server avatars. User nicknames as well as other data necessary for the functioning of specific commands and features of the bot. For more details, see the official Privacy Policy 
+Googledocs:(https://docs.google.com/document/d/1tsoodfPLsBFTJe3UPCD88R-5NAhu0h8iLhOH_aubkHY/edit?usp=sharing), GitHub:(https://github.com/YunoSL/Luna-terms./blob/main/TermsofUse)
 
 6.Terms of Changes to the Terms of Use (ToU):
-The Project Owner reserves the right to change the terms without notifying the user. The updated version comes into force from the moment of publication. Continued use of the bot after the changes take effect signifies agreement with them.
 
+6.1 The Project Owner reserves the right to change the terms without notifying the user. The updated version comes into force from the moment of publication. Continued use of the bot after the changes take effect signifies agreement with them.
 
 7.Rights to Luna
-All rights to the source code belong to the Owner. The User receives a limited license to use the service.
-Some graphic elements may be obtained from publicly available sources and are used in accordance with the fair use principle. In case of claims from copyright holders, please contact us using the contacts specified in section 1.
+7.1 All rights to the source code belong to the Owner. The User receives a limited license to use the service.
+
+7.2 Some graphic elements may be obtained from publicly available sources and are used in accordance with the fair use principle. In case of claims from copyright holders, please contact us using the contacts specified in section 1.
+
