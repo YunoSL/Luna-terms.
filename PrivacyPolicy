@@ -1,6 +1,5 @@
 1.Общее положение. 
 
-
 Данная политика конфиденциальности первоначально составлена на Русском языке. Англоязычная версия предоставлена исключительно для удобства Пользователей. В случае возникновения любых противоречий или расхождений между версиями, исключительную юридическую силу имеет оригинальная русская версия. 
 Имя проекта: Luna 
 Суть проекта: Публичный discord бот 
@@ -12,52 +11,41 @@ Discord:yuno_sl
 
 
 
-
-
-
 Пользователь - Конечный пользователь discord использующий сервис
 
-
 2.Какие данные получает сервис
-
 
 Сервис собирает следующие типы данных:
 1-Уникальные идентификаторы(Далее ID): id серверов, id пользователей, id Текстовых-Голосовых каналов, Id сообщений
 2-Данные аккаунта:Имя пользователя, Его дискриминатор, Аватар пользователя
 3-Данные сервера: Название сервера, Аватар сервера, список участников и ролей (в объеме, необходимом для работы функций бота)
 4-Пользовательский контент: Содержимое команд, которые вы вводите для бота. (Пример: Оформление профиля внутри бота)
-
+5-Пользовательские изображения: графические файлы (баннеры профиля), загружаемые пользователями через функционал бота. Изображения сохраняются и отображаются в рамках работы функций профиля на конкретном сервере.
 
 3.Использование собранных данных:
-
 
 Сервис использует собранные данные для обеспечения работы функционала бота
 1-Предоставление функционала бота: Данные нужны для работы основных функций(Модерация, Команды для развлечения, Прочие)
 2-Хранение настроек: Бот использует данные для обеспечения более комфортного использования.
 
-
 4.Защита данных:
-
 
 1-Хранение данных: Данные хранятся до тех пор, пока это необходимо для целей, указанных в разделе 3, либо пока вы не отзовете свое согласие, удалив бота с сервера. Вы можете написать на нашу почту с запросом на удаление ваших данных.
 2-Место хранения: Данные хранятся в sqlite таблицах на защищенных серверах нашего хостинг-провайдера расположенного в Российской Федерации.
 3-Доступ: Доступ к данным имеет только владелец проекта. Мы не передаем данные третьим лицам, за исключением случаев, предусмотренных законом, Ситуаций, когда это технически необходимо для работы определенных функций Бота (пример, обращение к сторонним API).
-
 
 5.Ваши права:
 1-Вы имеете право на доступ: Запросить информацию о том, какие ваши личные данные мы храним.
 2-Вы имеете право потребовать удаления ваших персональных данных. Учтите, что удаление данных делает невозможным использование всего или части функционала Бота.
 
 
+
 6.Условия изменений Политики конфиденциальности : 
 Владелец проекта оставляет за собой право изменять условия без уведомления пользователя. Обновленная версия вступает в силу с момента публикации. Дальнейшее использование бота после вступления изменений в силу означает согласие с ними.
 
-
 …………………………………………………………………………………………………..
 
-
 1.General Provisions
-
 
 This privacy policy was originally drafted in Russian. The English version is provided solely for the convenience of Users. In the event of any contradictions or discrepancies between the versions, the original Russian version shall take exclusive legal precedence.
 Project Name: Luna
@@ -66,43 +54,34 @@ Project Owner: YunoSL
 Contact Information: Github:https://github.com/YunoSL, Email:help.lunabot@gmail.com,
 Discord:yuno_sl
 
-
 By adding the Luna bot to a server or using its commands, you confirm that you have read and understood this Privacy Policy and consent to the processing of data in accordance with it. If you do not agree, do not use the service.
-
 
 User - The end user of discord using the service
 
-
 2.What data the service receives
-
 
 The service collects the following types of data:
 1- Unique identifiers (hereinafter IDs): server ids, user ids, text-voice channel ids, message ids
 2- Account data: Username, His discriminator, User avatar
 3- Server data: Server name, Server avatar, list of members and roles (to the extent necessary for the bot's functions to work)
-4- User content: The content of the commands you enter for the bot. (Example: Profile design inside the bot)
-
+4-User content: The content of the commands you enter for the bot. (Example: Profile design inside the bot)
+5-User uploaded images: graphic files (profile banners) uploaded through the bot functionality. These images are stored and displayed as part of the profile features on a specific server.
 
 3.Use of collected data:
-
 
 The service uses the collected data to ensure the functionality of the bot
 1- Providing bot functionality: Data is needed for the operation of main functions (Moderation, Entertainment commands, Others)
 2- Storing settings: The bot uses data to ensure more comfortable use.
 
-
 4.Data protection:
-
 
 1- Data storage: Data is stored for as long as necessary for the purposes specified in section 3, or until you withdraw your consent by removing the bot from the server. You can write to our email with a request to delete your data.
 2- Storage location: Data is stored in sqlite tables on the secure servers of our hosting provider located in the Russian Federation.
 3- Access: Only the project owner has access to the data. We do not transfer data to third parties, except as provided by law, Situations where it is technically necessary for the operation of certain Bot functions (example, accessing third-party APIs).
 
-
 5.Your rights:
 1- You have the right to access: Request information about what your personal data we store.
 2- You have the right to demand the deletion of your personal data. Please note that deleting data makes it impossible to use all or part of the Bot's functionality.
-
 
 6.Terms of changes to the Privacy Policy:
 The Project Owner reserves the right to change the terms without notifying the user. The updated version comes into force from the moment of publication. Continued use of the bot after the changes take effect means agreement with them.
